@@ -19,7 +19,7 @@ This repository contains a frontend application built with Next.js, React, and p
 
 ## Demo
 
-[https://github.com/aswanth-aswanth/DOK_frontend/assets/\[GITHUB_USER_ID\]/\[UNIQUE_ASSET_ID\]/demo.mp4](https://github.com/aswanth-aswanth/DOK_frontend/assets/[YOUR_GITHUB_USER_ID]/[UNIQUE_ASSET_ID]/demo-video.mp4)
+[[https://github.com/aswanth-aswanth/DOK_frontend/assets/\[GITHUB_USER_ID\]/\[UNIQUE_ASSET_ID\]/demo.mp4](https://github.com/aswanth-aswanth/DOK_frontend/assets/[YOUR_GITHUB_USER_ID]/[UNIQUE_ASSET_ID]/demo-video.mp4)](https://github.com/user-attachments/assets/17a17ec5-82ad-4b76-a935-f4e1d6339f3d)
 
 ## Getting Started
 
