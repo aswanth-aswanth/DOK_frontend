@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Frontend Application with React
+
+ 
+
+This repository contains a frontend application built with Next.js, React, and powered by modern web development tools. The application provides a robust and efficient web development experience.
+
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Getting Started](#getting-started) 
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [License](#license)
+
+## Features
+
+📦 **Next.js Framework**: Leveraging the power of Next.js for server-side rendering and static site generation ⚛️ **Modern React**: Using the latest React version for component-based architecture 🚀 **Optimized Performance**: Built with performance and developer experience in mind 💻 **Responsive Design**: Compatible with desktop and mobile views
+
+## Demo
+
+A live demo of the project will be available soon.
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+- Node.js (version 14 or higher)
+- Git
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/aswanth-aswanth/DOK_frontend.git
+```
+
+1. Navigate to the project directory:
+
+```bash
+cd DOK_frontend
+```
+
+1. Install dependencies:
+
+```bash
+npm install
+```
+
+## Usage
+
+### Development Server
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This will run the app in development mode. Open <http://localhost:3000> to view it in the browser.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Production Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Create an optimized production build:
 
-## Learn More
+```bash
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Start the production server:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Linting
 
-## Deploy on Vercel
+Run the linter to check code quality:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm run lint
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Technologies Used
+
+- **Next.js**: Web framework for server-side rendering and static site generation
+- **React**: JavaScript library for building user interfaces
+- **Axios**: Promise-based HTTP client for making API requests
+
+## Dependency Versions
+
+- Next.js: 15.0.3
+- React: 19.0.0-rc (Release Candidate)
+- Axios: 1.7.8
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
