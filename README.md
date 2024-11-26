@@ -1,14 +1,12 @@
 # Next.js Frontend Application with React
 
- 
-
 This repository contains a frontend application built with Next.js, React, and powered by modern web development tools. The application provides a robust and efficient web development experience.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Demo](#demo)
-- [Getting Started](#getting-started) 
+- [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
@@ -21,7 +19,7 @@ This repository contains a frontend application built with Next.js, React, and p
 
 ## Demo
 
-A live demo of the project will be available soon.
+[https://github.com/aswanth-aswanth/DOK_frontend/assets/\[GITHUB_USER_ID\]/\[UNIQUE_ASSET_ID\]/demo.mp4](https://github.com/aswanth-aswanth/DOK_frontend/assets/[YOUR_GITHUB_USER_ID]/[UNIQUE_ASSET_ID]/demo-video.mp4)
 
 ## Getting Started
 
